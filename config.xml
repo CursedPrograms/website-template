@@ -1,1 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
+<WebsiteSettings>
+    <Title></Title>
+    <Theme></Theme>
+    <Author></Author>
+    <Description></Description>
+    <Homepage></Homepage>
+    <Navigation>
+        <MenuItem></MenuItem>
+        <MenuItem></MenuItem>
+        <MenuItem></MenuItem>
+    </Navigation>
+</WebsiteSettings>
