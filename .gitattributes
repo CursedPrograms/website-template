@@ -22,3 +22,9 @@
 *.txt linguist-generated=false
 *.txt linguist-documentation=false
 *.txt linguist-detectable=true
+
+*.svg linguist-vendored=false
+*.svg linguist-generated=false
+*.svg linguist-documentation=false
+*.svg linguist-detectable=true
+
