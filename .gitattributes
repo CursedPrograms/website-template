@@ -13,10 +13,10 @@
 *.yml linguist-documentation=false
 *.yml linguist-detectable=true
 
-*.ini linguist-vendored=false
-*.ini linguist-generated=false
-*.ini linguist-documentation=false
-*.ini linguist-detectable=true
+*.xml linguist-vendored=false
+*.xml linguist-generated=false
+*.xml linguist-documentation=false
+*.xml linguist-detectable=true
 
 *.txt linguist-vendored=false
 *.txt linguist-generated=false
@@ -27,4 +27,3 @@
 *.svg linguist-generated=false
 *.svg linguist-documentation=false
 *.svg linguist-detectable=true
-
