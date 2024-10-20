@@ -1,4 +1,10 @@
-/* Reset some default browser styles */
+@charset "utf-8";
+@import url('https://cursedprograms.github.io/cursedentertainment/iframes/header/styles/horizontal-menu-style.css');
+@import url('https://cursedprograms.github.io/cursedentertainment/styles/content-style.css');
+@import url('https://cursedprograms.github.io/cursedentertainment/styles/error-style.css');
+@import url('https://cursedprograms.github.io/cursedentertainment/styles/main-style.css');
+@import url('/styles/colour-scheme.css');
+
 body,
 h1,
 h2,
